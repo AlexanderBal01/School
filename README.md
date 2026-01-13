@@ -22,7 +22,7 @@ In deze repository vindt je alle eindprojecten die ik (Alexander Bal) heb gemaak
 
 ### Vakken semester 1 & 2:
 
-- Werkveld Contact & Nieuwe technologie
+- Werkveld Contact & Nieuwe Technologie
 
 ## Graduaat Programmeren 2021 - 2022
 
