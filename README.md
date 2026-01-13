@@ -74,6 +74,7 @@ In deze repository vindt je alle eindprojecten die ik (Alexander Bal) heb gemaak
 ### Vakken semester 2:
 
 - Advanced software development 2
+- Enterprise Web Development - Java
 - Operating Systems
 - Research Methods
 
