@@ -1,0 +1,352 @@
+= Peer evaluatie analyse projectwerk
+
+== Vooraf
+
+**Deze peer evaluatie is verplicht in te vullen, wie dit niet doet kan niet slagen voor dit vak.**
+
+Je vult dit .adoc bestand aan in een tekst editor, maar bekijk het eindresultaat ook nog eens in de browser om te zien of alles er goed en overzichtelijk uitziet.
+
+Hernoem deze file zodanig dat je groepscode, voornaam en familienaam in de filename zitten
+
+* bv. `peer evaluatie b07 jan janssens.adoc`
+
+Dien deze file in op Chamilo als je klaar bent met invullen. 
+
+Er is is per klas een aparte opdracht om in te dienen, zorg dat je bij de juiste klasgroep (1A/1B/1C) indient!
+
+
+[IMPORTANT]
+====
+
+LET OP : Er wordt **op geen enkele manier samengewerkt bij het invullen** van deze peer evaluatie en er wordt **op geen enkele manier over de inhoud gecommuniceerd** met je medestudenten!
+
+Als er iets niet duidelijk is, stel je de vraag aan je docent en niet aan je medestudenten.
+
+====
+
+== Introductie
+
+Deze peer evaluatie dient om na te gaan hoe de samenwerking verliep in de groepjes waar je deel van uitmaakte. Sommigen zaten de ganse tijd in hetzelfde groepje, anderen moest tussendoor verplaatst worden en hebben in meerdere groepjes gezeten.
+
+Het is de bedoeling dat je voor elke medestudent waar je mee samenwerkte, een evaluatie invult. Dit zal je docent toelaten een inschatting te maken hoe de groepsdynamiek was en of iedereen zijn/haar steentje heeft bijgedragen aan het eindresultaat.
+
+**Neem dit ernstig en overweeg goed wat je schrijft** over jezelf en je teamgenoten, het kan gevolgen hebben voor de eindscores. Dit is niet het soort document dat je rap rap invult om ervan af te zijn of terwijl je TV zit te kijken.
+
+**BIJ DEZE EVALUATIE IS HET BELANGRIJK DAT JE ENKEL IEMANDS GEDRAG EVALUEERT!**
+
+Ook al is iemand misschien niet zo aangenaam in de omgang, het gaat erom hoe die persoon heeft bijgedragen aan het eindresultaat en hoe de samenwerking is verlopen.
+
+De plaatsen waar je iets moet invullen zijn aangegeven door drie vraagtekens `???`.
+	
+Verderop zul je jezelf en je groepsgenoten voor een aantal criteria een score moeten geven van 1 t.e.m. 5.
+
+Die score moet je als volgt interpreteren :
+
+* 5 = uitstekend / was van doorslaggevend belang voor ons resultaat
+* 4 = goed / heeft een belangrijke bijdrage geleverd
+* 3 = voldoende / heeft voldoende bijgedragen
+* 2 = onvoldoende / heeft niet genoeg bijgedragen
+* 1 = niet goed / heeft zeer weinig bijgedragen
+* 0 = zwak / heeft niks bijgedragen of zelfs verslechterd
+
+== Zelfevaluatie (over jezelf dus)
+
+[%autowidth]
+|====
+| Naam invuller | Alexander Bal
+| 1^e^ groep | Groep B1
+| 2^e^ groep | 
+| 3^e^ groep | 
+|====
+
+[source]
+----
+	Ter herinnering nog eens de betekenis van de score op 5 :
+	
+		5 = uitstekend / was van doorslaggevend belang voor ons resultaat
+		4 = goed / heeft een belangrijke bijdrage geleverd
+		3 = voldoende / heeft voldoende bijgedragen
+		2 = onvoldoende / heeft niet genoeg bijgedragen
+		1 = niet goed / heeft zeer weinig bijgedragen
+		0 = zwak / heeft niks bijgedragen of zelfs verslechterd	
+----
+
+Geef **jezelf** een score voor de criteria in onderstaande tabel (zet de score in de linkerkolom van de tabel).
+
+[%autowidth]
+|====
+| Score op 5 | Criterium
+
+| 3 | nam actief deel aan de groepsdiscussies
+| 3 | bracht nuttige ideeen aan, had goeie suggesties
+| 4 | heeft zijn/haar deel van het werk gedaan (20%, 25%, 33%, 50%, afhankelijk van jullie groepsgrootte!)
+| 4 | algemene kwaliteit van de bijdragen
+| 3 | kennis van de relevante materie
+|====
+
+Beschrijf hieronder **jouw** belangrijkste bijdragen aan het project (minstens 3 zinnen, maar meer mag natuurlijk ook). 
+
+.Belangrijkste bijdragen
+****
+
+Ik probeerde altijd als ik klaar was met mijn taken, de anderen uit mijn groep te helpen.
+Ik heb een paar BUC's gemaakt met de groep.
+Ik ben tijdens de laatste twee lessen bezig geweest met het ERD te maken. 
+
+****
+	
+Schrijf hieronder de mogelijke verbeterpunten op die je voor jezelf ziet (minstens 2 verbeterpunten, maar meer mag natuurlijk ook)
+
+.Mogelijke verbeterpunten
+****
+
+Als ik notulist was, de feedback die de groep kreeg direct noteren.
+Als ik eindverantwoordelijke was, uitgebrijder vertelen wie wat had gedaan.
+
+****	
+
+== Peer evaluatie (over de anderen dus)
+
+Hieronder zul je per groepsgenoot een evaluatie moeten invullen. Denk eraan steeds zijn/haar naam alsook de groepscode in te vullen van de groep waarin jullie samenwerkten.
+
+Er volgen 10 secties, eentje per groepsgenoot. Dat is meer dan je zult nodig hebben, verwijder de secties die je niet nodig hebt.
+
+
+
+
+
+=== Groepsgenoot 1
+
+[%autowidth]
+|====
+| Naam groepsgenoot | Abdellah Akhayad
+| Jullie groepscode | Groep B1
+|====
+
+[source]
+----
+	Ter herinnering nog eens de betekenis van de score op 5 :
+	
+		5 = uitstekend / was van doorslaggevend belang voor ons resultaat
+		4 = goed / heeft een belangrijke bijdrage geleverd
+		3 = voldoende / heeft voldoende bijgedragen
+		2 = onvoldoende / heeft niet genoeg bijgedragen
+		1 = niet goed / heeft zeer weinig bijgedragen
+		0 = zwak / heeft niks bijgedragen of zelfs verslechterd	
+----
+
+Geef **hem/haar** een score voor de criteria in onderstaande tabel (zet de score in de linkerkolom van de tabel).
+
+[%autowidth]
+|====
+| Score op 5 | Criterium
+
+| 3 | nam actief deel aan de groepsdiscussies
+| 3 | bracht nuttige ideeen aan, had goeie suggesties
+| 4 | heeft zijn/haar deel van het werk gedaan (20%, 25%, 33%, 50%, afhankelijk van jullie groepsgrootte!)
+| 3 | algemene kwaliteit van de bijdragen
+| 3 | kennis van de relevante materie
+|====
+
+Beschrijf hieronder **zijn/haar** belangrijkste bijdragen aan het project (minstens 3 zinnen, maar meer mag natuurlijk ook). 
+
+.Belangrijkste bijdragen
+****
+
+Als Abdellah samen met mij werkte aan een opdracht gaf hij altijd goede input over wat we er in moesten zetten.
+Bij het maken van de ERD heeft Abdellah mij altijd zijn visie ervan gegeven.
+Abdellah heeft ook veel aan de buc's gewerkt.
+
+****
+	
+Schrijf hieronder eventuele klachten die je hebt over deze groepsgenoot en/of verbeterpunten die je voor hem/haar ziet. Indien alles in orde was en je wil een complimentje geven, dan mag je dat ook schrijven natuurlijk!
+
+.Klachten en mogelijke verbeterpunten (of complimentjes)
+****
+
+Abdellah was soms wat stiller, hij zou meer zijn mening mogen zeggen.
+
+****	
+
+
+
+
+
+
+
+
+
+=== Groepsgenoot 2
+
+[%autowidth]
+|====
+| Naam groepsgenoot | Jimmy Haijen
+| Jullie groepscode | Groep B1
+|====
+
+[source]
+----
+	Ter herinnering nog eens de betekenis van de score op 5 :
+	
+		5 = uitstekend / was van doorslaggevend belang voor ons resultaat
+		4 = goed / heeft een belangrijke bijdrage geleverd
+		3 = voldoende / heeft voldoende bijgedragen
+		2 = onvoldoende / heeft niet genoeg bijgedragen
+		1 = niet goed / heeft zeer weinig bijgedragen
+		0 = zwak / heeft niks bijgedragen of zelfs verslechterd	
+----
+
+Geef **hem/haar** een score voor de criteria in onderstaande tabel (zet de score in de linkerkolom van de tabel).
+
+[%autowidth]
+|====
+| Score op 5 | Criterium
+
+| 5 | nam actief deel aan de groepsdiscussies
+| 4 | bracht nuttige ideeen aan, had goeie suggesties
+| 5 | heeft zijn/haar deel van het werk gedaan (20%, 25%, 33%, 50%, afhankelijk van jullie groepsgrootte!)
+| 3 | algemene kwaliteit van de bijdragen
+| 3 | kennis van de relevante materie
+|====
+
+Beschrijf hieronder **zijn/haar** belangrijkste bijdragen aan het project (minstens 3 zinnen, maar meer mag natuurlijk ook). 
+
+.Belangrijkste bijdragen
+****
+
+Jimmy wou vaak de notulist of eindverandwoordelijke zijn.
+Jimmy heeft altijd de vragen van de vorige weeken uitgekuist.
+Jimmy hielp ook de rest, als hij klaar was met zijn deel.
+
+****
+	
+Schrijf hieronder eventuele klachten die je hebt over deze groepsgenoot en/of verbeterpunten die je voor hem/haar ziet. Indien alles in orde was en je wil een complimentje geven, dan mag je dat ook schrijven natuurlijk!
+
+.Klachten en mogelijke verbeterpunten (of complimentjes)
+****
+
+
+
+****	
+
+
+
+
+
+
+
+
+
+=== Groepsgenoot 3
+
+[%autowidth]
+|====
+| Naam groepsgenoot | Pieter Colpaert
+| Jullie groepscode | Groep B1
+|====
+
+[source]
+----
+	Ter herinnering nog eens de betekenis van de score op 5 :
+	
+		5 = uitstekend / was van doorslaggevend belang voor ons resultaat
+		4 = goed / heeft een belangrijke bijdrage geleverd
+		3 = voldoende / heeft voldoende bijgedragen
+		2 = onvoldoende / heeft niet genoeg bijgedragen
+		1 = niet goed / heeft zeer weinig bijgedragen
+		0 = zwak / heeft niks bijgedragen of zelfs verslechterd	
+----
+
+Geef **hem/haar** een score voor de criteria in onderstaande tabel (zet de score in de linkerkolom van de tabel).
+
+[%autowidth]
+|====
+| Score op 5 | Criterium
+
+| 4 | nam actief deel aan de groepsdiscussies
+| 4 | bracht nuttige ideeen aan, had goeie suggesties
+| 5 | heeft zijn/haar deel van het werk gedaan (20%, 25%, 33%, 50%, afhankelijk van jullie groepsgrootte!)
+| 4 | algemene kwaliteit van de bijdragen
+| 4 | kennis van de relevante materie
+|====
+
+Beschrijf hieronder **zijn/haar** belangrijkste bijdragen aan het project (minstens 3 zinnen, maar meer mag natuurlijk ook). 
+
+.Belangrijkste bijdragen
+****
+
+Pieter hielp Jimmy met de vragen uit te kuisen.
+Hij heeft samen met Amélie de scenarios van BUC-GA voorbereid.
+Hij heeft ook een paar BUC's voorbereid.
+
+****
+	
+Schrijf hieronder eventuele klachten die je hebt over deze groepsgenoot en/of verbeterpunten die je voor hem/haar ziet. Indien alles in orde was en je wil een complimentje geven, dan mag je dat ook schrijven natuurlijk!
+
+.Klachten en mogelijke verbeterpunten (of complimentjes)
+****
+
+
+
+****	
+
+
+
+
+
+
+
+
+
+=== Groepsgenoot 4
+
+[%autowidth]
+|====
+| Naam groepsgenoot | Amélie Verleysen
+| Jullie groepscode | Groep B1
+|====
+
+[source]
+----
+	Ter herinnering nog eens de betekenis van de score op 5 :
+	
+		5 = uitstekend / was van doorslaggevend belang voor ons resultaat
+		4 = goed / heeft een belangrijke bijdrage geleverd
+		3 = voldoende / heeft voldoende bijgedragen
+		2 = onvoldoende / heeft niet genoeg bijgedragen
+		1 = niet goed / heeft zeer weinig bijgedragen
+		0 = zwak / heeft niks bijgedragen of zelfs verslechterd	
+----
+
+Geef **hem/haar** een score voor de criteria in onderstaande tabel (zet de score in de linkerkolom van de tabel).
+
+[%autowidth]
+|====
+| Score op 5 | Criterium
+
+| 3 | nam actief deel aan de groepsdiscussies
+| 4 | bracht nuttige ideeen aan, had goeie suggesties
+| 5 | heeft zijn/haar deel van het werk gedaan (20%, 25%, 33%, 50%, afhankelijk van jullie groepsgrootte!)
+| 4 | algemene kwaliteit van de bijdragen
+| 4 | kennis van de relevante materie
+|====
+
+Beschrijf hieronder **zijn/haar** belangrijkste bijdragen aan het project (minstens 3 zinnen, maar meer mag natuurlijk ook). 
+
+.Belangrijkste bijdragen
+****
+
+Amélie heeft een paar BUC's gemaakt.
+Amélie heeft samen met Pieter de scenarios van BUC-GA voorbereid.
+Amélie heeft ook de vragen met antwoorden uigekuist.
+
+****
+	
+Schrijf hieronder eventuele klachten die je hebt over deze groepsgenoot en/of verbeterpunten die je voor hem/haar ziet. Indien alles in orde was en je wil een complimentje geven, dan mag je dat ook schrijven natuurlijk!
+
+.Klachten en mogelijke verbeterpunten (of complimentjes)
+****
+
+
+
+****	

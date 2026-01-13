@@ -1,0 +1,236 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #fff;
+}
+  
+/*--- navigation bar ---*/
+  
+.navbar {
+  background: #000000;
+}
+  
+.nav-link, .navbar-brand {
+  font-family: cactus-story;
+  font-size: 36px;
+  color: #fff;
+  cursor: pointer;
+}
+  
+.nav-link {
+  margin-right: 1em !important;
+}
+  
+.nav-link:hover {
+  color: 	#038ee6;
+}
+  
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+/*--- header ---*/
+
+.header {
+  background-image: url('../images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.description {
+  left: 50%;
+  position: absolute;
+  top: 60%;
+  transform: translate(-50%, -40%);
+  text-align: center;
+}
+  
+.description h1 {
+  font-family: cactus-story;
+  font-size: 60px;
+  color: 	#038ee6;
+}
+  
+.description p {
+  font-family: arial;
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.description button{
+  font-family: cactus-story;
+  border:1px solid 	#038ee6;
+  background:	#038ee6;
+  font-size: 30px;
+  border-radius: 10px;
+  color:#fff;
+}
+  
+.description button:hover{
+  border:1px solid #fff;
+  background:#fff;
+  font-size: 30px;
+  color:#000;
+}
+
+/*--- Columns ---*/
+
+.features {
+  margin: 4em auto;
+  padding: 1em;
+  position: relative;
+}
+  
+.feature-title {
+  color: #333;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+  
+.features img {
+  -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  margin-bottom: 16px;
+}
+
+/*--- cards ---*/
+
+.div-card{
+  height: 200px;
+}
+
+.card-title {
+  font-size: 2.2rem;
+  font-family: cactus-story;
+  color: 	#038ee6;
+    
+}
+
+.card-text-font{
+  font-family: arial;
+  font-size: 16px;
+}
+
+.btn-font {
+  font-family: cactus-story;
+  font-size: 22px;
+}
+
+.card-body-tips{
+  font-size: 2.2rem;
+  font-family: cactus-story;
+  color: 	#038ee6;
+}
+
+   /*--- footer ---*/
+
+.page-footer {
+  background-color: #000;
+  color: #ccc;
+  padding: 60px 0 30px;
+}
+
+.footer-title-font{
+  font-family: arial;
+  font-size: 16px;
+}
+
+.footer-copyright {
+  color: #666;
+  padding: 40px 0;
+}
+
+.link-footer {
+  font-family: cactus-story;
+  color: #038ee6;
+  font-size: 24px;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 20px;
+}
+
+.link-footer:hover{
+  text-decoration: none;
+}
+
+i.color-size {
+  color: #038ee6;
+  font-size: 24px;
+  padding-top: 15px;;
+  padding-bottom: 25px;
+  padding-right: 0;
+}
+
+ul.footer {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0;
+}
+
+ul.footer-subtipes {
+  font-family: cactus-story;
+  font-size: 30px;
+  list-style-type: none;
+}
+
+/*--- columns footer ---*/
+
+.column-font {
+  font-family: cactus-story;
+  font-size: 40px;;
+  color: #038ee6;
+}
+
+#alexander {
+  margin-bottom: 75px;
+}
+
+#arthur {
+  margin-bottom: 75px;
+}
+
+#sebastiaan {
+  margin-bottom: 75px;
+}
+
+#ryan {
+  margin-bottom: 75px;
+}
+
+#torey {
+  margin-bottom: 75px;
+}
+
+#paul {
+  margin-bottom: 75px;
+}
+
+/*--- fonts ---*/
+
+@font-face {
+  font-family: cactus-story;
+  src: url(../fonts/cactus-story.ttf);
+}
+
+/*--- forms ---*/
+
+.bs-example{
+    margin: 20px;
+    margin-left: 32%;
+    width: 40%;
+}

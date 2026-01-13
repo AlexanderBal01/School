@@ -1,0 +1,35 @@
+= Business use cases
+Groep B.1
+v2020.20.19.01
+// toc and section numbering
+:toc: preamble
+:toclevels: 4
+:sectnums: 
+:sectlinks:
+:sectnumlevels: 4
+// preamble
+[.text-right]
+versie {revnumber}
+
+== Klanten beheren
+** Klanten identificeren
+** Klanten aanmaken
+** Klantgegevens aanpassen
+
+== Stock beheren
+** Exemplaren identificeren
+** Exemplaar beschikbaarheid
+** Exemplaren toevoegen
+** Exemplaren verwijderen
+** Exemplaren categorie wijzigen
+** Exemplaren reserveren
+** Reservatie toevoegen
+** Reservatie wijzigen 
+** Exemplaren verhuren
+
+== Kassa beheren
+** Betalingen innen
+** Boetes aanrekenen
+** Korting toekennen
+** Klachten registreren
+** Overzicht boekhouding
